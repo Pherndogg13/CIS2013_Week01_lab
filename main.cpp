@@ -1,3 +1,8 @@
+#include <iostream>
+using namespace std;
+
 int main(){
-	return 0:
+	cout << "Hello World, Welcome to c++";
+	cout << "More text goes here";
+	return 0;
 }
